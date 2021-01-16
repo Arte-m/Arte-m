@@ -1,7 +1,13 @@
 ### Hi there 👋  
 🌱 I’m currently learning
-
-
+```
+  ___       _                 
+ / _ \     | |                
+/ /_\ \_ __| |_ ___ _ __ ___  
+|  _  | '__| __/ _ \ '_ ` _ \ 
+| | | | |  | ||  __/ | | | | |
+\_| |_/_|   \__\___|_| |_| |_|
+```                              
 
 <!--
 **Arte-m/Arte-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
